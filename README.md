@@ -1,0 +1,2 @@
+# searching-algo
+practicing algorithm
